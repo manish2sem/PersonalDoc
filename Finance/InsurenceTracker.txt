@@ -1,0 +1,248 @@
+Date	06736159 		0441535				Birla
+5 oct	231630 			195458
+6 0ct   231663			195484
+7 0ct   231701			
+10 0ct  231817			195611
+12 0ct  231894			195674
+17 0ct  232099			195844
+20 0ct  232176			195908
+24 0ct  232229			196059
+25 0ct  232269			196089
+26 0ct  232306			196120
+27 0ct  232345			196152
+30 0ct  232386			196189
+04 Nov  232662			196418
+07 Nov  232777			196512
+13 Nov  232941			196635
+21 Nov  255573			196958
+21 Dec  260854			197752
+22 Dec  260862			197756
+27 Dec  261050			197899
+
+2018
+02 JAN  261288				198081
+03 JAN  261393				198161 (switch-max)		193724
+04 JAN  261418				198175					193724
+05 JAN  261423				199481 (switch-presrv)	193724
+05 FEB  262417				202195 					196096
+07 FEB  262595				202334 					196198
+14 FEB  262883				221577	(switch-max)	196586 (switch-max)
+16 FEB  263019				221817					197094
+23 FEB  263123				218029					194654
+26 FEB  263186				220173					197068
+13 MAR  264067				219613					198068
+06 APR  265203				219120					196290
+10 APR  265399				219831					200900
+11 APR  265440				219934					201055
+16 APR  265520				220736					201055
+04 JUN  269954				224096					205678
+
+2019  Start : 780000   virtualFund: 845000  Target: 930000 Actual: 896000  %incr:6		Achievment:-34000
+virtualFund = Start + EMI(65k)
+19 Aprl 310584				258275					235320
+25 July 315696				263045					255241
+30 July 315987				263311					255399 (switch-max)
+31 July 316034				263345					255640
+08 Aug  316562				263832					250753
+24 Sep  319117				266215					272263 (Max-65)
+27 Sep  319202				266248					271590 (Max-25)
+16 Oct  320275				267246					271353 				 38500
+13 Nov  321643				268483					275512 
+28 Nov  342569				269197					278695
+03 Dec  342847				269427					278877
+
+2020  Start : 896099   virtualFund: 961099  Target: 1060000
+06 Jan  344256				270617					281226
+14 Jan  344907				271048					281649
+24 Jan  345176				271411					284068
+24 Feb  346271				272737					288999
+03 Mar  346271				292737(switch-max)		 (MAx 40)
+
+Switchimg: Corona effect
+	25 Feb : 0441535 -> 100 Max -> 40,281	289278
+	03 Mar :  Birla -> Max 40 ->  38,623	
+	11 Mar :  Birla -> Max 70 -> 35,697
+	16 Mar :  Birla -> Max 100 -> 31,390
+	
+	
+	
+28 Mar  354988 (78960-Max)		211465(Max -100)			244640 (max - 100) 		Corona Effect - BSE - 29,815 : Fund->811,093
+18 Apr  375377 					225964(Max -100)			266840 (Max - 30) 		31588
+25 Apr  375663 					221555(Max -100)			266873 (Max - 20) 		31327
+-------------------------------------------------------------------------------------------------
+
+
+01 May  376060 					233992(Max -60)				278013 	 			    33712
+09 May  376663 					226800(Max -100)			279187 	Max - 20) 		31642
+16 May  376153 (Max-10)			225846(Max -100)			280073 	Max - 05) 		31097
+23 May  375712 (Max-50)			223604(Max -100)			282814 	Max - 50) 		30672
+31 May  385499    			    236048(Max -100)			289342 					32424		910889
+-------------------------------------------------------------------------------------------------
+		10k							14.5k					20k
+
+
+06 Jun  387162 (Max-30)  		247263(Max -60)			    291521					34287
+13 Jun  387771   		        244546(Max -60)			    292230					33780
+20 Jun  388057   		        246434      			    294903(Max - 20) 		34731
+27 Jun  388513   		        245140      			    296400          		35171
+--------------------------------------------------------------------------------------------
+		3k							9k						5k								930053
+
+
+05 JuL  388969  		        248039      			    298710(Max - 20) 		36021
+11 JuL  389351  		        250153      			    300679			 		36594
+17 Jul	390999(Max-30-1)		252290(Max-70-1)			304446(Max - 20-1)		37020
+25 Jul	393346(Max-30-3)		255565(Max-70-2)			304856					38128
+--------------------------------------------------------------------------------------------
+		5k							10k						6k								953767
+
+
+01 Aug	393581					255703 						305039(Max - 40-1)		37606
+08 Aug	393884					255900 						306157(Max - 40-4)		38040
+15 Aug	394229					254572(Max-70-2) 			304880(Max - 50-2)		37877
+22 Aug	394347					258112(Max-70-2) 			309449(Max - 50-5)		38434
+29 Aug  394609                  258284						310357					39467	963250
+--------------------------------------------------------------------------------------------
+		1.3k						2.8k					3.5k
+		
+05 Sep  394829                  258503						311511					38357
+12 Sep  393863                  258597						311001					38854
+19 Sep  394024                  258829						313139					38845
+26 Sep  394131                  259038						311858 (Max - 40-5)		37388	
+--------------------------------------------------------------------------------------------
+		-0.5k					0.7k						1.5k
+
+03 Oct  394705                  259207						315610 					38697
+	
+	
+	
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+	
+	 
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trading - Start 2nd last wk (Modification: Can be done every wk as FNO expires wkly)
+	- 20-30% profit , sell same %(or little less) in quantity, at the same time replace(same quantity ) with next month.
+	- if market turn in other side then sell in different side + already headged opposite next month quantity.
+	
+	
+ULIP Strategy (General)
+
+Market   ULIP %Max
+33000    ICICI-1 50;  ICICI-2 20; Birla 20%
+31000    ICICI-1 100; ICICI-2 10; Birla 5%
+30000    ICICI-1 100; ICICI-2 10; Birla 25%
+28000    ICICI-1 100; ICICI-2 10; Birla 50%
+25000    ICICI-1 100; ICICI-2 25; Birla 50%
+23000    ICICI-1 100; ICICI-2 50; Birla 50%
+21000    ICICI-1 100; ICICI-2 50; Birla 100%
+20000    ICICI-1 100; ICICI-2 1000; Birla 100%
+
+
+
+when market jumps back switch to preserver. Desicion will be made run-time.
+
+
+
+
+
+
+Lost 10L in 50 days with 5 wrong sessions :
+
+1. Amount - 10L 
+
+Went naked and tried to earn just 2k by selling NIFTY call (just a day before expiry) which value was 30. It came down to 11 but before buying it shoot up
+Then sold one more and these two creared huge pressure.  
+And next day both became rocket total loss was more than 20k 
+to recover this loss, went into BNF and made more loss.
+
+2. Amount - 9.20L
+
+Heged BNF in big amount around 375-380 (call put). Same day one reached to 600 but could not sell.
+Next day it came down drastically and other went up but because of premium erosion had to suffer loss of around 80k
+
+Oppurtunity missed: one side reached to 1000 also but i sold before.
+Missed when other side was up
+
+3. 
+bought call and put at wrong time just around 2:00
+by closing i had the loss of 65k because of premimum erosion.
+Finally had to book heavy loss
+
+4.was going in one direction with call. 
+suddenly market moved opposite and had to buy put with gap.
+premium alose eroded. did some averaging but was in loss in both side.
+When one target met (at buy price) i sold that but suddenly market moved to other direction
+booked loss in hurry and amount was 1.5+ L
+Next day that call came to the buy price.
+
+5.Now left with 4.7 L going good with small profit.
+That day also booked profit of 6-7 k
+then decided to go naked with call
+bought 500 at 195 averaged it at with another at 178. it was going down only
+Again averaged at 130 then 108 
+did too many aggressive buy/sll at the range of 100-125 and got the chance of closing with the loss of only 10k
+but not ready for even that loss so further went put side
+Did very agressive buy sell of put.
+Finally at very high price trapped into put (180 - 1000) averaged it at 140 another 1000
+it went down to less than 100. then to compenste bought naother call at 26 1000
+finally i had put 2000 price - 160, 21200; closing price - 96 
+and call  2300 price - 100, 22000; closing price - 26
+
+Thurse day : Start was good.
+i was able to sell my put in profit (around 170 average) call became penny.
+Blunder was to hedge the put of next epiry and didnt sell when it was in profit.
+Price 253 1000, and 192 400.
+
+By evening call became 0 and put was at 115
+next day it was 70 and going down
+Sold at 59 and 68 in panic
+Suffered huge loss of 3.5L in these three days. could have booked the loss of 10 k only
+or after buying 1000 put could hvae hedged the 400 with call. that dat 50 re call went to 300.
+
+
+Now looking for some good strategy:
+
+with the diff of 400, buy call and put just a day before expiry @100.
+next day whichever gives profit sell.
+and then buy the next expiry of sold option. this will used as hedging.
+Now go agressive for another side i.e. that wk expiry.
+do it as much as possible 3-4 times and try to earn atleast 10% profit. and close the trding that day itself.
+Details will follow:
+
