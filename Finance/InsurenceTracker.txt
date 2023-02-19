@@ -157,6 +157,8 @@ Achievment: -16976 (FNO -VE), overall: 7.1, net(including FNO): 4.6
 2022  Start : 1300000   virtualFund: 1365000  Target:1450000(6%), 1500000(10%)					FNO
 
 11 Jan  517582				343787(50)					442155 						60104  
+13 Feb  520053				344891(50)					445328 						60430  
+
 
 
 
