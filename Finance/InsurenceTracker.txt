@@ -179,7 +179,14 @@ Achievment: overall: 6.95, net(including FNO): 6.95
 
 
  
-2023  Start : 1460000   virtualFund: 1525000  Target:1620000(6%), 1680000(10%)		FNO			INCR	NPS-1		NPS-2
+2024  Start : 1460000   virtualFund: 1525000  Target:1620000(6%), 1680000(10%)					FNO			INCR	NPS-1		NPS-2
+Actual - ;   Net- 
+Profit: , net profit(including FNO): 
+Achievment: overall: , net(including FNO): 
+
+06 Feb  585697				400177						497767						72186  					21000	 1,61,602	 43,675
+09 Feb  585980				400371(100)					497970						71595  					700	     1,62,000	 44,110
+
 
 
 
